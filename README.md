@@ -12,9 +12,9 @@ Exporter
 
 External Storage (hook into InfinityExpansion Storage Units)
 
-Crafting Terminal
+Access Terminal
 
-Wireless Terminal (And wireless crafting Terminal)
+Wireless Terminal
 
 Storage Disks
 
